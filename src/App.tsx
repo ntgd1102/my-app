@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const wantToFly = 'fly2255';
+  const wantToFly = 'ly22';
   return (
     <div className="App">
       <header className="App-header">
